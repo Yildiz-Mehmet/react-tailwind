@@ -1,7 +1,7 @@
 import React from "react";
 
 const Battombar = () => {
-  return <div>Battombar</div>;
+  return <div className="h-24">Battombar</div>;
 };
 
 export default Battombar;
