@@ -5,7 +5,7 @@ import Sidebar from "components/Sidebar";
 function App() {
   return (
     <>
-      <div className="bg-pink-300">
+      <div>
         <Sidebar />
         <Content />
       </div>
